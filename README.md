@@ -1,4 +1,7 @@
 # INFORMATIK_AFG
-Unser Projekt zu subtrahieren mit drei verschiedenen Zahlensystemen.
+Herzlich wilkommen zu unserem Projekt um drei verschiedene Zahlensysteme (dec, bin, hex) zu subtrahieren.
 
-Den Code kopieren und in Visual Studio Code einfügen. Bei fehlern bitte melden!
+
+Falls es irgendwelche errors gibt bitte bei und melden, damit wir das Problem beheben können.
+
+
