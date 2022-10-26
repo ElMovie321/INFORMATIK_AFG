@@ -1,7 +1,7 @@
 # INFORMATIK_AFG
-Herzlich wilkommen zu unserem Projekt um drei verschiedene Zahlensysteme (dec, bin, hex) zu subtrahieren.
+Herzlich willkommen zu unserem Projekt!
 
-
-Falls es irgendwelche errors gibt bitte bei und melden, damit wir das Problem beheben können.
+Mit unserem "Subtrahierer 3000" kann innerhalb verschiedenen Zahlensystemen (dec, bin, hex) subtrahiert werden.
+Falls es irgendwelche Errors gibt, bitte bei und melden, damit wir die Probleme beheben können.
 
 
